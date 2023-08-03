@@ -1,0 +1,343 @@
+{
+  "body": {
+    "items": [
+      {
+        "id": 1,
+        "type": "new",
+        "headerImage": "boga",
+        "coverImage": "",
+        "videoButton": false,
+        "lineOptions": {
+          "title": "FUAR",
+          "titleLine": true,
+          "desp": "Lorem Ipsum is simply dummy text of the printing",
+          "despLine": true
+        },
+        "desp": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
+        "time": "22:30",
+        "dateTime": "06.03.2017",
+        "buttonTitle": "GÖRÜNTÜLE",
+        "buttonActive": true,
+        "adImages": {
+          "firstAdImage": "",
+          "secondAdImage": ""
+        }
+      },
+      {
+        "id": 2,
+        "type": "new",
+        "headerImage": "",
+        "coverImage": "man",
+        "videoButton": true,
+        "lineOptions": {
+          "title": "SERGİ",
+          "titleLine": true,
+          "desp": "Lorem Ipsum is simply dummy text of the printing",
+          "despLine": false
+        },
+        "desp": "",
+        "time": "",
+        "dateTime": "",
+        "buttonTitle": "GÖRÜNTÜLE",
+        "buttonActive": true,
+        "adImages": {
+          "firstAdImage": "",
+          "secondAdImage": ""
+        }
+      },
+      {
+        "id": 3,
+        "type": "new",
+        "headerImage": "",
+        "coverImage": "",
+        "videoButton": false,
+        "lineOptions": {
+          "title": "FUAR",
+          "titleLine": true,
+          "desp": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+          "despLine": true
+        },
+        "desp": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
+        "time": "22:30",
+        "dateTime": "06.03.2017",
+        "buttonTitle": "GÖRÜNTÜLE",
+        "buttonActive": true,
+        "adImages": {
+          "firstAdImage": "",
+          "secondAdImage": ""
+        }
+      },
+      {
+        "id": 4,
+        "type": "ads",
+        "headerImage": "",
+        "coverImage": "",
+        "videoButton": false,
+        "lineOptions": {
+          "title": "REKLAM",
+          "titleLine": false,
+          "desp": "",
+          "despLine": false
+        },
+        "desp": "",
+        "time": "",
+        "dateTime": "",
+        "buttonTitle": "",
+        "buttonActive": false,
+        "adImages": {
+          "firstAdImage": "suitsupply_1",
+          "secondAdImage": "suitsupply_2"
+        }
+      },
+      {
+        "id": 5,
+        "type": "new",
+        "headerImage": "",
+        "coverImage": "party",
+        "videoButton": false,
+        "lineOptions": {
+          "title": "SERGİ",
+          "titleLine": true,
+          "desp": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+          "despLine": false
+        },
+        "desp": "",
+        "time": "",
+        "dateTime": "",
+        "buttonTitle": "GÖRÜNTÜLE",
+        "buttonActive": true,
+        "adImages": {
+          "firstAdImage": "",
+          "secondAdImage": ""
+        }
+      },
+
+      {
+        "id": 6,
+        "type": "news",
+        "headerImage": "car",
+        "coverImage": "",
+        "videoButton": false,
+        "lineOptions": {
+          "title": "FUAR",
+          "titleLine": true,
+          "desp": "Lorem Ipsum is simply dummy text of the printing",
+          "despLine": true
+        },
+        "desp": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in same form, by injected humour.",
+        "time": "22:30",
+        "dateTime": "06.03.2017",
+        "buttonTitle": "GÖRÜNTÜLE",
+        "buttonActive": true,
+        "adImages": {
+          "firstAdImage": "",
+          "secondAdImage": ""
+        }
+      },
+
+
+      {
+        "id": 7,
+        "type": "news",
+        "headerImage": "",
+        "coverImage": "opera",
+        "videoButton": false,
+        "lineOptions": {
+          "title": "SERGİ",
+          "titleLine": true,
+          "desp": "Lorem Ipsum is simply dummy text of the printing",
+          "despline": false
+        },
+        "desp": "",
+        "time": "",
+        "dateTime": "",
+        "buttonTitle": "GÖRÜNTÜLE",
+        "buttonActive": true,
+        "adImages": {
+          "firstAdImage": "",
+          "secondAdImage": ""
+        }
+      },
+
+
+      {
+        "id": 8,
+        "type": "new",
+        "headerImage": "",
+        "coverImage": "",
+        "videoButton": false,
+        "lineOptions": {
+          "title": "FUAR",
+          "titleLine": true,
+          "desp": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+          "despLine": true
+        },
+        "desp": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
+        "time": "22:30",
+        "dateTime": "06.03.2017",
+        "buttonTitle": "GÖRÜNTÜLE",
+        "buttonActive": true,
+        "adImages": {
+          "firstAdImage": "",
+          "secondAdImage": ""
+        }
+      },
+
+
+      {
+        "id": 9,
+        "type": "ads",
+        "headerImage": "",
+        "coverImage": "guess",
+        "videoButton": false,
+        "lineOptions": {
+          "title": "",
+          "desp": "",
+          "line": false
+        },
+        "desp": "",
+        "time": "",
+        "dateTime": "",
+        "buttonTitle": "",
+        "buttonActive": false,
+        "adImages": {
+          "firstAdImage": "",
+          "secondAdImage": ""
+        }
+      },
+
+      {
+        "id": 10,
+        "type": "news",
+        "headerImage": "",
+        "coverImage": "man",
+        "videoButton": false,
+        "lineOptions": {
+          "title": "SERGİ",
+          "titleLine": true,
+          "desp": "Lorem Ipsum is simply dummy text of the printing",
+          "despline": true
+        },
+        "desp": "",
+        "time": "",
+        "dateTime": "",
+        "buttonTitle": "GÖRÜNTÜLE",
+        "buttonActive": true,
+        "adImages": {
+          "firstAdImage": "",
+          "secondAdImage": ""
+        }
+      },
+      {
+        "type": "new",
+        "headerImage": "boga",
+        "coverImage": "",
+        "videoButton": false,
+        "lineOptions": {
+          "title": "FUAR",
+          "titleLine": true,
+          "desp": "Lorem Ipsum is simply dummy text of the printing",
+          "despLine": true
+        },
+        "desp": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
+        "time": "22:30",
+        "dateTime": "06.03.2017",
+        "buttonTitle": "GÖRÜNTÜLE",
+        "buttonActive": true,
+        "adImages": {
+          "firstAdImage": "",
+          "secondAdImage": ""
+        }
+      },
+      {
+        "id": 12,
+        "type": "news",
+        "headerImage": "",
+        "coverImage": "party",
+        "videoButton": false,
+        "lineOptions": {
+          "title": "SERGİ",
+          "titleLine": true,
+          "desp": "Lorem Ipsum is simply dummy text of the printing",
+          "despline": false
+        },
+        "desp": "",
+        "time": "",
+        "dateTime": "",
+        "buttonTitle": "GÖRÜNTÜLE",
+        "buttonActive": true,
+        "adImages": {
+          "firstAdImage": "",
+          "secondAdImage": ""
+        }
+      },
+      {
+        "id": 13,
+        "type": "new",
+        "headerImage": "",
+        "coverImage": "",
+        "videoButton": false,
+        "lineOptions": {
+          "title": "FUAR",
+          "titleLine": true,
+          "desp": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+          "despLine": true
+        },
+        "desp": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
+        "time": "22:30",
+        "dateTime": "06.03.2017",
+        "buttonTitle": "GÖRÜNTÜLE",
+        "buttonActive": true,
+        "adImages": {
+          "firstAdImage": "",
+          "secondAdImage": ""
+        }
+      },
+      {
+        "id": 14,
+        "type": "ads",
+        "headerImage": "",
+        "coverImage": "",
+        "videoButton": false,
+        "lineOptions": {
+          "title": "REKLAM",
+          "titleLine": false,
+          "desp": "",
+          "despline": false
+        },
+        "desp": "",
+        "time": "",
+        "dateTime": "",
+        "buttonTitle": "",
+        "buttonActive": false,
+        "adImages": {
+          "firstAdImage": "suitsupply_1",
+          "secondAdImage": "suitsupply_2"
+        }
+      },
+      {
+        "id": 15,
+        "type": "news",
+        "headerImage": "",
+        "coverImage": "woman",
+        "videoButton": false,
+        "lineOptions": {
+          "title": "SERGİ",
+          "titleLine": true,
+          "desp": "Lorem Ipsum is simply dummy text of the printing",
+          "despLine": false
+        },
+        "desp": "",
+        "time": "",
+        "dateTime": "",
+        "buttonTitle": "GÖRÜNTÜLE",
+        "buttonActive": true,
+        "adImages": {
+          "firstAdImage": "",
+          "secondAdImage": ""
+        }
+      }
+
+    ]
+  }
+}
